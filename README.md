@@ -38,7 +38,6 @@ Tools:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e023fa37-3673-4f94-85b5-67f83202ae9b" width="45%" />
   <img src="https://github.com/user-attachments/assets/67f4a4c1-2047-4c06-a2c3-f20e01f6b37f" width="45%" />
-  <img src="https://github.com/user-attachments/assets/e43ae93f-f6e7-43e2-8e31-b4c955246151" width="45%" />
 </p>
 
 <p align="center">
